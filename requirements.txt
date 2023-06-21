@@ -1,0 +1,14 @@
+# Requirements.txt
+# This file lists the required packages to be installed using conda.
+
+numpy==1.22.2
+pandas==1.4.5
+scikit-learn==1.0.2
+scikit-image==0.19.5
+matplotlib==3.5.1
+seaborn==0.11.2
+tensorboard==2.7.0
+opencv-python==4.6.0.46
+Pillow==8.4.0
+jupyter==1.0.0
+
