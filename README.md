@@ -23,7 +23,7 @@ After completing the bootcamp, all participants will be familiar with the follow
 | **Section**        | **What does it cover?**| **Examples and exercises** |
 | ------------------ | ------------------------| ------------------------------------ |
 | [00-Installation guide](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/00_Installation_guide.pdf)   | Instructions for setting up the development environment and required tools | <p align="center">-</p>|
-| [01-Deep Learning and PyTorch basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/01_DL_and_PyTorch_basics.pptx)    | An introductory guide to the fundamental concepts of deep learning and the PyTorch library. We provide examples of basic tensor operations and use pretrained models to make predictions | [00-Tensor basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/00_tensor_basics.ipynb)<br>01-Inference with pretrained networks             |
+| [01-Deep Learning and PyTorch basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/01_DL_and_PyTorch_basics.pptx)    | An introductory guide to the fundamental concepts of deep learning and the PyTorch library. We provide examples of basic tensor operations and use pretrained models to make predictions | [00-Tensor basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/00_tensor_basics.ipynb)<br>[01-Inference with pretrained networks](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/01_models_inference.ipynb)             |
 | 02-Data preprocessing  | -                      |   -    |
 | 03-Model Building and Training Loop  | -                      |   -    |
 | 04-Transfer Learning  | -                      |   -    |
