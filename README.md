@@ -15,7 +15,7 @@ After completing the bootcamp, all participants will be familiar with the follow
 
   <div align="center">
     <a href="https://learnpytorch.io">
-        <img src="https://github.com/mrluque/DL_bootcamp/assets/104084765/2f8cd716-5b1b-4ade-bbd6-69cf910f4c84" width=350 alt="pytorch deep learning ">
+        <img src="https://github.com/mrluque/TTT-DLBootcamp/assets/104084765/2f15dd6a-8b56-4a86-b09e-4d965d27331e" width=350 alt="pytorch deep learning ">
     </a>
 </div>
 
