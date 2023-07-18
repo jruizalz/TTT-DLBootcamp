@@ -20,15 +20,15 @@ After completing the bootcamp, all participants will be familiar with the follow
 </div>
 
 ## Course materials
-| **Section**        | **What does it cover?**| **Examples and exercises** |
-| ------------------ | ------------------------| ------------------------------------ |
-| [00-Installation guide](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/00_Installation_guide.pdf)   | Instructions for setting up the development environment and required tools | <p align="center">-</p>|
-| [01-Deep Learning and PyTorch basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/01_DL_and_PyTorch_basics.pptx)    | An introductory guide to the fundamental concepts of deep learning and the PyTorch library. We provide examples of basic tensor operations and use pretrained models to make predictions | [00-Tensor basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/00_tensor_basics.ipynb)<br>[01-Inference with pretrained networks](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/01_models_inference.ipynb)             |
-| [02-Data preprocessing](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/02_Data_preprocessing.pdf)  | Learn to utilize PyTorch's tools for tasks like resizing, normalization, data augmentation, batch loading, and handling image transformations. We will explore techniques for applying pre-processing operations and creating efficient custom data loaders to train and validate PyTorch models.                      |   [02-Data preprocessing](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/02_data_preprocessing.ipynb)    |
-| 03-Model Building and Training Loop  | -                      |   -    |
-| 04-Transfer Learning  | -                      |   -    |
-| 05-Evaluating model predictions  | -                      |   -    |
-| 06-Deep Learning in Medical Image Analysis  | -                      |   -    |
+| **Section**        | **What does it cover?**| **Examples and exercises** | **Exercise solutions**|
+| ------------------ | ------------------------| ------------------------------------ |------------------ |
+| [00-Installation guide](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/00_Installation_guide.pdf)   | Instructions for setting up the development environment and required tools | <p align="center">-</p>|   <p align="center">-</p>   |
+| [01-Deep Learning and PyTorch basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/01_DL_and_PyTorch_basics.pptx)    | An introductory guide to the fundamental concepts of deep learning and the PyTorch library. We provide examples of basic tensor operations and use pretrained models to make predictions | [00-Tensor basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/00_tensor_basics.ipynb)<br><br>[01-Inference with pretrained networks](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/01_models_inference.ipynb)             | [00-Tensor basics answers](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/exercises_solutions/00_tensor_basics_solutions.ipynb)<br><br>[01-Inference with pretrained networks answers](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/exercises_solutions/01_models_inference_solutions.ipynb)  |
+| [02-Data preprocessing](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/02_Data_preprocessing.pdf)  | Learn to utilize PyTorch's tools for tasks like resizing, normalization, data augmentation, batch loading, and handling image transformations. We will explore techniques for applying pre-processing operations and creating efficient custom data loaders to train and validate PyTorch models.                      |   [02-Data preprocessing](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/02_data_preprocessing.ipynb)    |[02-Data preprocessing answers](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/exercises_solutions/02_data_preprocessing%20_solutions.ipynb) 
+| 03-Model Building and Training Loop  | -                      |   -    |   -    |
+| 04-Transfer Learning  | -                      |   -    |   -    |
+| 05-Evaluating model predictions  | -                      |   -    |   -    |
+| 06-Deep Learning in Medical Image Analysis  | -                      |   -    |   -    |
 
 ## External references
 To supplement the information provided in this course, we encourage you to visit the following resources. 
