@@ -21,14 +21,15 @@ After completing the bootcamp, all participants will be familiar with the follow
 
 ## Course materials
 | **Section**        | **What does it cover?**| **Examples and exercises** | **Exercise solutions**|
-| ------------------ | ------------------------| ------------------------------------ |------------------ |
+| :------------------: | :------------------:| :------------------:|:------------------:|
 | [00-Installation guide](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/00_Installation_guide.pdf)   | Instructions for setting up the development environment and required tools | <p align="center">-</p>|   <p align="center">-</p>   |
-| [01-Deep Learning and PyTorch basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/01_DL_and_PyTorch_basics.pptx)    | An introductory guide to the fundamental concepts of deep learning and the PyTorch library. We provide examples of basic tensor operations and use pretrained models to make predictions | [00-Tensor basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/00_tensor_basics.ipynb)<br><br>[01-Inference with pretrained networks](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/01_models_inference.ipynb)             | [00-Tensor basics answers](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/exercise%20solutions/00_tensor_basics_solutions.ipynb)<br><br>[01-Inference with pretrained networks answers](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/exercise%20solutions/01_models_inference_solutions.ipynb)  |
+| [01-Deep Learning and PyTorch basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/01_DL_and_PyTorch_basics.pptx)    | An introductory guide to the fundamental concepts of deep learning and the PyTorch library. We provide examples of basic tensor operations and use pretrained models to make predictions. | [00-Tensor basics](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/00_tensor_basics.ipynb)<br><br>[01-Inference with pretrained networks](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/01_models_inference.ipynb)             | [00-Tensor basics answers](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/exercise%20solutions/00_tensor_basics_solutions.ipynb)<br><br>[01-Inference with pretrained networks answers](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/exercise%20solutions/01_models_inference_solutions.ipynb)  |
 | [02-Data preprocessing](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/02_Data_preprocessing.pdf)  | Learn to utilize PyTorch's tools for tasks like resizing, normalization, data augmentation, batch loading, and handling image transformations. We will explore techniques for applying pre-processing operations and creating efficient custom data loaders to train and validate PyTorch models.                      |   [02-Data preprocessing](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/02_data_preprocessing.ipynb)    |[02-Data preprocessing answers](https://github.com/mrluque/TTT-DLBootcamp/blob/main/notebooks/exercise%20solutions/02_data_preprocessing%20_solutions.ipynb) 
-| 03-Model Building and Training Loop  | -                      |   -    |   -    |
-| 04-Transfer Learning  | -                      |   -    |   -    |
-| 05-Evaluating model predictions  | -                      |   -    |   -    |
-| 06-Deep Learning in Medical Image Analysis  | -                      |   -    |   -    |
+| [03-Model Building and Training Loop](https://github.com/mrluque/TTT-DLBootcamp/blob/main/slides/03_Model_building_and_training_loop.pdf) | In this section, we dive into the process of creating, designing, and training neural networks for diverse machine learning tasks. The knowledge is applied to handle multiclass classification and segmentation challenges. |      |   
+| 04-Evaluating model predictions                 |  
+| 05-Transfer Learning | - |  -     |   -     |
+
+
 
 ## External references
 To supplement the information provided in this course, we encourage you to visit the following resources. 
@@ -43,4 +44,4 @@ To supplement the information provided in this course, we encourage you to visit
   - For a **more comprehensive understanding of deep learning algorithms and techniques**, you can refer to the book [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. It is widely regarded as a valuable resource for both beginners and practitioners in the field of deep learning.
   - For additional information about the **PyTorch library** and access to more practical examples, visit the [PyTorch tutorials website](https://pytorch.org/tutorials/).
   - If you're eager to continue your journey of exploring deep learning in PyTorch, I suggest picking up the book [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch), authored by Eli Stevens, Luca Antiga, and Thomas Viehmann.
-
+  - For a quick introduction to **deep learning in PyTorch**, refer to the course [Learn PyTorch for Deep Learning](https://github.com/mrdbourke/pytorch-deep-learning).
